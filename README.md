@@ -20,6 +20,9 @@ In this, we designed an Application to directly download Youtube Video (to .mp4)
 <img src = 'Display_window.PNG' height="300px">
 </div>
 
+- Enter URL : Enter the youtube link
+- Enter Path : Browse or Mention the complete path where you expect the downloaded video/audio to be saved in the local system.
+
 ### Steps of Code Execution:
 
   1. Clone / Download this [repository](https://github.com/nikita9604/Youtube-Downloader)
