@@ -102,7 +102,7 @@ clearButton.place(x=180, y=350)
 down = tk.Button(window, text="Download",command=download_file,fg="black" ,bg="yellow green" ,width=10 ,height=2, activebackground = "Red" ,font=('times', 15, ' bold '))
 down.place(x=390, y=350)
 
-img = ImageTk.PhotoImage(Image.open("Youtube_image.PNG"))
+img = ImageTk.PhotoImage(Image.open("Display_window.png"))
 panel = Label(window, image = img)
 panel.place(x=1000, y=150)
 
